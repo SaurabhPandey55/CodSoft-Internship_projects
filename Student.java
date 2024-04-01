@@ -73,7 +73,7 @@ class StudentManagementSystem {
     }
 }
 
-public class task3 {
+ class task3 {
     public static void main(String[] args) {
         StudentManagementSystem sms = new StudentManagementSystem();
         Scanner scanner = new Scanner(System.in);
