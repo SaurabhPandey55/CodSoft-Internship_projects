@@ -73,7 +73,7 @@ class AddressBook {
     }
 }
 
-//public class AddressBookSystem
+// class AddressBookSystem
  class task5 {
     public static void main(String[] args) {
         AddressBook addressBook = new AddressBook();
