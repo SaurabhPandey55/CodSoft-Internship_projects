@@ -74,7 +74,7 @@ class AddressBook {
 }
 
 //public class AddressBookSystem
-public class task5 {
+ class task5 {
     public static void main(String[] args) {
         AddressBook addressBook = new AddressBook();
         Scanner scanner = new Scanner(System.in);
